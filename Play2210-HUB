@@ -388,7 +388,7 @@ end)
 
 UI:Button("MSDOORS ( Doors )", "Click Once only !", function()
     if game.PlaceId == 6839171747 then
-        loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSDOORS.lua"),true))()
+        loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua"),true))()
     end
 end)
 
