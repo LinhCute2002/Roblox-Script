@@ -11,7 +11,7 @@ end)
 
 UI:Button("Auto A-1000 ( Doors )", "Click Once only !", function()
     if game.PlaceId == 6839171747 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Play2210/Roblox/main/Auto-A1000"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/LinhCute2002/Roblox-Script/main/Auto-A1000"))()
     end
 end)
 
